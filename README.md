@@ -34,5 +34,27 @@ Overall Test dataset size – 110,775</br>
 4. [Himank Kandpal](https://github.com/Himank0)
 
 ## Team Ranking
-![]()
+![](https://github.com/akshatprogrammer/Amazon-ML-Challenge/blob/main/Leaderboard%20-%20Amazon%20ML%20Challenge%20_%20HackerEarth%20-%20Google%20Chrome%208_2_2021%202_37_28%20PM.png)
 </br> Out of 3290 Teams we secured 296th Position.
+
+
+## Contributors
+<a href = "https://github.com/akshatprogrammer/Amazon-ML-Challenge/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=akshatprogrammer/Amazon-ML-Challenge"/>
+</a>
+
+# Connect With Me
+LinkedIn : https://www.linkedin.com/in/akshatjaingeu/<br/>
+Email : akshat.kodia@gmail.com<br/>
+Twitter : www.twitter.com/akki_aj89</br>
+Website : https://akshatprogrammer.github.io/portfolio/ </br>
+# Personal
+Name : Akshat Jain<br/>
+University : Graphic Era University, Dehradun(UK)
+
+If any problem with this program reach me at Telegram<br/>
+Here is the link -> https://t.me/akki_aj89
+
+# Gratitude
+Thank You, if you like it please leave a Star.
+
